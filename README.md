@@ -18,10 +18,10 @@ apt install git -y
 pkg install wget -y
 
 # Clone the repository
-git clone https://github.com/h4xan-blackbirdcybersec/Nethunter-rootles-installer
+git clone https://github.com/CK-HACKS/kalirootlessdownload.git
 
 #
-cd Nethunter-rootles-installer
+cd kalirootlessdownload
 
 #give file executive permission
 chmod +x install.sh

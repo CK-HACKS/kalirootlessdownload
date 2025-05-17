@@ -20,7 +20,7 @@ pkg install wget -y
 # Clone the repository
 git clone https://github.com/CK-HACKS/kalirootlessdownload.git
 
-#
+# Change directory
 cd kalirootlessdownload
 
 #give file executive permission
